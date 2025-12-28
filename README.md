@@ -3,7 +3,7 @@
 - Simulates safe pretransfer check scenarios
 
 ### Objective
-- A modular simulation for specific situations (getting patients up from bed only for now) that can help train students and new hires
+- A modular simulation designed as a educational simulation prototype focused on pre-transfer safety checks for health care students (getting patients up from bed only for now) 
 
 ### Tech
 - Unreal Engine 5
@@ -13,9 +13,9 @@
 - One patient room (for now)
 
 ### Features To Implement
-- Player movements (first person walking, interaction)
-- Story telling driven by interactive cutscences
-- Quiz system (dialogue system)
+- User navigation (first person walking, interaction)
+- Scenario-driven guided sequences
+- Knowledge check prompts
 - Examine objects
 - BENCHED FOR NOW: AI controlled patient NPCs
 
