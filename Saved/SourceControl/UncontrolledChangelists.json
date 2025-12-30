@@ -1,0 +1,15 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/shane/Documents/Unreal Projects/pretransfer/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/shane/Documents/Unreal Projects/pretransfer/Content/Maps/MainMap.umap",
+				"C:/Users/shane/Documents/Unreal Projects/pretransfer/Content/StarterContent/Textures/T_Wood_Floor_Walnut_Mat.uasset",
+				"C:/Users/shane/Documents/Unreal Projects/pretransfer/Content/Maps/MainMap_BuiltData.uasset"
+			]
+		}
+	]
+}
