@@ -13,13 +13,14 @@
 				"C:/Users/shane/Documents/Unreal Projects/pretransfer/Content/Blueprints/BP_PretransferGameInstance.uasset",
 				"C:/Users/shane/Documents/Unreal Projects/pretransfer/Content/Blueprints/BP_PretransferPlayerController.uasset",
 				"C:/Users/shane/Documents/Unreal Projects/pretransfer/Content/Blueprints/Characters/Player/BP_PretransferPlayerCharacter.uasset",
-				"C:/Users/shane/Documents/Unreal Projects/pretransfer/Content/Input/Actions/IA_Look.uasset",
-				"C:/Users/shane/Documents/Unreal Projects/pretransfer/Content/Input/Actions/IA_Move.uasset",
 				"C:/Users/shane/Documents/Unreal Projects/pretransfer/Content/Input/IMC_Pretransfer.uasset",
 				"C:/Users/shane/Documents/Unreal Projects/pretransfer/Content/Input/Actions/IA_MoveRight.uasset",
 				"C:/Users/shane/Documents/Unreal Projects/pretransfer/Content/Input/Actions/IA_MoveForward.uasset",
 				"C:/Users/shane/Documents/Unreal Projects/pretransfer/Content/Input/Actions/IA_LookRight.uasset",
-				"C:/Users/shane/Documents/Unreal Projects/pretransfer/Content/Input/Actions/IA_LookUp.uasset"
+				"C:/Users/shane/Documents/Unreal Projects/pretransfer/Content/Input/Actions/IA_LookUp.uasset",
+				"C:/Users/shane/Documents/Unreal Projects/pretransfer/Content/Blueprints/CameraShakes/CS_Walk.uasset",
+				"C:/Users/shane/Documents/Unreal Projects/pretransfer/Content/Input/Actions/IA_Look.uasset",
+				"C:/Users/shane/Documents/Unreal Projects/pretransfer/Content/Input/Actions/IA_Move.uasset"
 			]
 		}
 	]
