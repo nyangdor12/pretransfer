@@ -22,6 +22,12 @@
 				"C:/Users/shane/Documents/Unreal Projects/pretransfer/Content/Input/Actions/IA_Interact.uasset",
 				"C:/Users/shane/Documents/Unreal Projects/pretransfer/Content/Blueprints/Interfaces/BPI_Interact.uasset",
 				"C:/Users/shane/Documents/Unreal Projects/pretransfer/Content/Blueprints/Actors/GrabActors/BP_GrabActor_Base.uasset",
+				"C:/Users/shane/Documents/Unreal Projects/pretransfer/Content/Blueprints/Actors/BP_ExamineActor.uasset",
+				"C:/Users/shane/Documents/Unreal Projects/pretransfer/Content/Blueprints/RenderTargets/ExaminActorRenderTarget2D.uasset",
+				"C:/Users/shane/Documents/Unreal Projects/pretransfer/Content/Blueprints/RenderTargets/ExamineActorRenderTarget2D.uasset",
+				"C:/Users/shane/Documents/Unreal Projects/pretransfer/Content/Textures/RenderTargets/ExamineActorRenderTarget2D.uasset",
+				"C:/Users/shane/Documents/Unreal Projects/pretransfer/Content/Materials/M_ExamineActor.uasset",
+				"C:/Users/shane/Documents/Unreal Projects/pretransfer/Content/UMG/WB_ExamineActor.uasset",
 				"C:/Users/shane/Documents/Unreal Projects/pretransfer/Content/Input/Actions/IA_Look.uasset",
 				"C:/Users/shane/Documents/Unreal Projects/pretransfer/Content/Input/Actions/IA_Move.uasset"
 			]
