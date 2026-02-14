@@ -1,6 +1,7 @@
 ### ⚠️ Notice: Project Transition
 Primary development has transitioned to a private repository. 
-This public space will remain active for **experimentation and R&D**, but will no longer reflect the final "Production" build.
+This public repo is for **animation testing** and **Draft Concepts**. 
+
 
 ### Patient Transfer Training Project Prototype
 - Simulates safe pretransfer check scenarios
@@ -30,6 +31,8 @@ This public space will remain active for **experimentation and R&D**, but will n
 - Computer system (eMAR)
 - Patient
 - Curtains
+
+*⚠️ DO NOT use code from this repo for actual clinical training. It is experimental and incomplete.*
 
 
 
