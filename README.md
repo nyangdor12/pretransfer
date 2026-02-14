@@ -1,5 +1,8 @@
-### Patient Transfer Training Project Prototype
+### ⚠️ Notice: Project Transition
+Primary development has transitioned to a private repository. 
+This public space will remain active for **experimentation and R&D**, but will no longer reflect the final "Production" build.
 
+### Patient Transfer Training Project Prototype
 - Simulates safe pretransfer check scenarios
 
 ### Objective
@@ -12,12 +15,14 @@
 ### Project Scale
 - One patient room (for now)
 
-### Features To Implement
+### Features to Implment
+- Knowledge check prompts
+- AI controlled patient NPCs
+
+### Features That are Partially Implemented Right Now
 - User navigation (first person walking, interaction)
 - Scenario-driven guided sequences
-- Knowledge check prompts
 - Examine objects
-- BENCHED FOR NOW: AI controlled patient NPCs
 
 ### Assets To Create in Blender 3D
 - Patient bed
