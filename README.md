@@ -32,7 +32,9 @@ This public repo is for **animation testing** and **Draft Concepts**.
 - Patient
 - Curtains
 
-*⚠️ DO NOT use code from this repo for actual clinical training. It is experimental and incomplete.*
+### ⚠️ IMPORTANT: CLINICAL DISCLAIMER
+The logic is **incomplete** and has **NOT been validated for clinical accuracy**. 
+**Do not use** this code for actual nursing education or patient safety training.
 
 
 
