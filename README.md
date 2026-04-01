@@ -20,7 +20,7 @@ This public repo is for **animation testing** and **Draft Concepts**.
 - Knowledge check prompts
 - AI controlled patient NPCs
 
-### Features That are Partially Implemented Right Now
+### Features That are Implemented and Currently Undergoing Testing
 - User navigation (first person walking, interaction)
 - Scenario-driven guided sequences
 - Examine objects
@@ -31,6 +31,10 @@ This public repo is for **animation testing** and **Draft Concepts**.
 - Computer system (eMAR)
 - Patient
 - Curtains
+
+### Credits & Attributions
+- Hospital Bed Model: Modeled and rigged by me. The visual design is inspired by the Medik medical bed series for the purpose of realistic patient safety simulation. This is a non-commercial, educational representation.
+- Disclaimer: This representation is intended for educational and portfolio purposes only. It is not an official product of Medik. The creator is not liable for any third-party use of this asset.
 
 ### ⚠️ IMPORTANT: CLINICAL DISCLAIMER
 The logic is **incomplete** and has **NOT been validated for clinical accuracy**. 
